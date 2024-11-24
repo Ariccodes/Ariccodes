@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ariccodes
 - 👀 I’m interested in a lot of pointless stuff such as chess, rubik's cube, acoustic guitars, song writing and a lot of other things that have nothing to do with computers. (guess I'm in the wrong line) 
 - 🌱 I’m currently learning JavaScript & C. 
-- 💞️ I’m looking to collaborate on nothing for now.
-- 😄 Pronouns: I identify as a 16ft tall truck with 3.14 wheels.
 - ⚡ Fun fact: You know the L'Hospitals rule? Yeah it's not actually L'Hospital it's L'hopital (pronounced as loo-pee-tal). It's shocking as to how such as essential rule in calculus is written incorrectly in such global scale. How'd you feel if i terribly pronounced your name? By the way,another fun fact :you definitely don't need that knowledge and you just wasted your precious 2 minutes im reading that. 
 
 <!---
